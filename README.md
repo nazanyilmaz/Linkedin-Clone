@@ -1,4 +1,4 @@
-<h1>Linkedin-Clone/h1>
+<h1>Linkedin-Clone</h1>
 
 <p> This is a Linkedin-Clone projectI prepared it using HTML and CSS. </p>
 
